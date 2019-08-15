@@ -1,6 +1,6 @@
 {
   "name": "@hmg-test/components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "common components",
   "main": "index.js",
   "license": "MIT"
