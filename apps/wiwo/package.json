@@ -1,0 +1,10 @@
+{
+  "name": "wiwo-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@hmg-test/wiwo-teaser": "0.0.3"
+  }
+}
