@@ -1,0 +1,30 @@
+{
+  "name": "hb",
+  "version": "1.0.0",
+  "private": true,
+  "description": "> TODO: description",
+  "author": "Nikita Boldyryev <M.Boldyryev@handelsblattgroup.com>",
+  "homepage": "https://github.com/nboldyrev/lerna2#readme",
+  "license": "ISC",
+  "main": "lib/hb.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://pkgs.dev.azure.com/handelsblattgroup/_packaging/hmg/npm/registry/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nboldyrev/lerna2.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/nboldyrev/lerna2/issues"
+  }
+}
